@@ -1,4 +1,4 @@
-# [brutal doom](https://youtu.be/iPyq0jFgVjI)
+# [brutal doom](https://youtu.be/oSzYliSASKc)
 
 ![](/brutal-doom.png)
 

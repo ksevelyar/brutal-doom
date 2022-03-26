@@ -5,7 +5,8 @@
 1. `direnv allow`
 2. copy *.wad to wad/ (doom.wad for example)
 3. run ./doom.sh for brutal doom
-4. gzdoom can run vanilla wads too: `gzdoom -iwad wad/heretic.wad`
+
+`gzdoom` can run vanilla wads too: `gzdoom -iwad wad/heretic.wad`
 
 ## Deps
 

@@ -16,9 +16,7 @@ wad
 ├── hexdd.wad
 ├── hexen.wad
 ├── plutonia.wad
-├── strife.wad
-├── tnt.wad
-└── voices.wad
+└── tnt.wad
 ```
 
 ## Run 

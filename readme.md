@@ -38,7 +38,6 @@ Please select a game wad (or 0 to exit):
 5. Heretic: Shadow of the Serpent Riders (heretic)
 6. Hexen: Beyond Heretic (hexen)
 7. Hexen: Deathkings of the Dark Citadel (hexdd)
-8. Strife: Quest for the Sigil (strife)
 ```
 
 ## Deps

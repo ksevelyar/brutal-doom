@@ -17,9 +17,7 @@ wad
 
 ## Run 
 
-You need to select a wad for `gzdoom` and optionally a mod
-
-* brutal doom: `gzdoom brutalv21.pk3 -iwad wad/doom2.wad` or `./doom2.sh` 
+`gzdoom brutalv21.pk3 -iwad wad/doom2.wad` or `./doom2.sh` 
 
 ## Deps
 
